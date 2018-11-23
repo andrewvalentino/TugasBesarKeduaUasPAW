@@ -101,6 +101,7 @@ var check = function() {
                             @endif
                             </select>
                             </div>
+                            <!-- <-- -->
                         </div>
                         @endif
                         <a href="{{route('user.index')}}" class="btn btn-light pull-right">Back</a>
