@@ -11,15 +11,15 @@
   "_installable": true,
   "_location": "/font-awesome",
   "_nodeVersion": "5.5.0",
-  "_npmOperationalInternal": {
-    "host": "packages-18-east.internal.npmjs.com",
+  "_nomor_identitasOperationalInternal": {
+    "host": "packages-18-east.internal.nomor_identitasjs.com",
     "tmp": "tmp/font-awesome-4.7.0.tgz_1477344817307_0.6990068354643881"
   },
-  "_npmUser": {
+  "_nomor_identitasUser": {
     "email": "julian@goodafternoon.co",
     "name": "juliankrispel"
   },
-  "_npmVersion": "3.3.12",
+  "_nomor_identitasVersion": "3.3.12",
   "_phantomChildren": {},
   "_requested": {
     "name": "font-awesome",
@@ -32,7 +32,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz",
+  "_resolved": "https://registry.nomor_identitasjs.org/font-awesome/-/font-awesome-4.7.0.tgz",
   "_shasum": "8fa8cf0411a1a31afd07b06d2902bb9fc815a133",
   "_shrinkwrap": null,
   "_spec": "font-awesome@4.7.0",
@@ -69,7 +69,7 @@
   "directories": {},
   "dist": {
     "shasum": "8fa8cf0411a1a31afd07b06d2902bb9fc815a133",
-    "tarball": "https://registry.npmjs.org/font-awesome/-/font-awesome-4.7.0.tgz"
+    "tarball": "https://registry.nomor_identitasjs.org/font-awesome/-/font-awesome-4.7.0.tgz"
   },
   "engines": {
     "node": ">=0.10.3"

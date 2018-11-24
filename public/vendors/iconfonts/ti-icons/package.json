@@ -11,15 +11,15 @@
   "_installable": true,
   "_location": "/ti-icons",
   "_nodeVersion": "6.9.1",
-  "_npmOperationalInternal": {
-    "host": "packages-18-east.internal.npmjs.com",
+  "_nomor_identitasOperationalInternal": {
+    "host": "packages-18-east.internal.nomor_identitasjs.com",
     "tmp": "tmp/ti-icons-0.1.2.tgz_1482994361970_0.1251560573000461"
   },
-  "_npmUser": {
+  "_nomor_identitasUser": {
     "email": "xuan.0211@gmail.com",
     "name": "xuan.0211"
   },
-  "_npmVersion": "3.10.8",
+  "_nomor_identitasVersion": "3.10.8",
   "_phantomChildren": {},
   "_requested": {
     "name": "ti-icons",
@@ -32,7 +32,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/ti-icons/-/ti-icons-0.1.2.tgz",
+  "_resolved": "https://registry.nomor_identitasjs.org/ti-icons/-/ti-icons-0.1.2.tgz",
   "_shasum": "8bd9b96d2fabd1ffe1efc7534d3dd3b989651f93",
   "_shrinkwrap": null,
   "_spec": "ti-icons@^0.1.2",
@@ -49,7 +49,7 @@
   "directories": {},
   "dist": {
     "shasum": "8bd9b96d2fabd1ffe1efc7534d3dd3b989651f93",
-    "tarball": "https://registry.npmjs.org/ti-icons/-/ti-icons-0.1.2.tgz"
+    "tarball": "https://registry.nomor_identitasjs.org/ti-icons/-/ti-icons-0.1.2.tgz"
   },
   "gitHead": "ad5ed84802fea2b865ce07220435a3a16b266837",
   "homepage": "https://github.com/lykmapipo/themify-icons#readme",

@@ -11,15 +11,15 @@
   "_installable": true,
   "_location": "/mdi",
   "_nodeVersion": "6.11.1",
-  "_npmOperationalInternal": {
-    "host": "s3://npm-registry-packages",
+  "_nomor_identitasOperationalInternal": {
+    "host": "s3://nomor_identitas-registry-packages",
     "tmp": "tmp/mdi-2.1.19.tgz_1512976805406_0.5178085812367499"
   },
-  "_npmUser": {
+  "_nomor_identitasUser": {
     "email": "admin@templarian.com",
     "name": "templarian"
   },
-  "_npmVersion": "5.5.1",
+  "_nomor_identitasVersion": "5.5.1",
   "_phantomChildren": {},
   "_requested": {
     "name": "mdi",
@@ -32,7 +32,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/mdi/-/mdi-2.1.19.tgz",
+  "_resolved": "https://registry.nomor_identitasjs.org/mdi/-/mdi-2.1.19.tgz",
   "_shasum": "492bfc0c4fd0c510ebd55301cc76eb03a7a2f34b",
   "_shrinkwrap": null,
   "_spec": "mdi@2.1.19",
@@ -52,7 +52,7 @@
   "dist": {
     "integrity": "sha512-WErwab4jq/jcCeo4aecQ5UH1WXu2Eto5Rdb0AiBFcUw8CHmF/UeV+hf9wKyH17X+c3Z+jaS3jDKW7fu0R0HmWQ==",
     "shasum": "492bfc0c4fd0c510ebd55301cc76eb03a7a2f34b",
-    "tarball": "https://registry.npmjs.org/mdi/-/mdi-2.1.19.tgz"
+    "tarball": "https://registry.nomor_identitasjs.org/mdi/-/mdi-2.1.19.tgz"
   },
   "gitHead": "208e40759c9b7293d3d6f6789c11c164f7c15c22",
   "homepage": "http://materialdesignicons.com",

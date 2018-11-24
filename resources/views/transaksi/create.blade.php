@@ -217,7 +217,7 @@
                             Nama
                           </th>
                           <th>
-                            NPM
+                            nomor_identitas
                           </th>
                           <th>
                             Prodi
@@ -240,7 +240,7 @@
                             {{$data->nama}}
                           </td>
                           <td>
-                            {{$data->npm}}
+                            {{$data->nomor_identitas}}
                           </td>
 
                           <td>

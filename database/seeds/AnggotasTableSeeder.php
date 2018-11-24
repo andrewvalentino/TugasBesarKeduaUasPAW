@@ -16,7 +16,7 @@ class AnggotasTableSeeder extends Seeder
             [
               'id'  			=> 1,
               'user_id'  		=> 1,
-              'npm'				=> 10000353,
+              'nomor_identitas'				=> 10000353,
               'nama' 			=> 'Admin GC',
               'tempat_lahir'	=> 'Banjarmasin',
               'tgl_lahir'		=> '2018-01-01',
@@ -28,7 +28,7 @@ class AnggotasTableSeeder extends Seeder
             [
               'id'  			=> 2,
               'user_id'  		=> 2,
-              'npm'				=> 10000375,
+              'nomor_identitas'				=> 10000375,
               'nama' 			=> 'User GC',
               'tempat_lahir'	=> 'Banjarmasin',
               'tgl_lahir'		=> '2019-01-01',

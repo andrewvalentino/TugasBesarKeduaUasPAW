@@ -35,10 +35,10 @@ module.exports = (grunt)->
           keepalive: true
 
 
-    grunt.loadNpmTasks 'grunt-contrib-less'
-    grunt.loadNpmTasks 'grunt-contrib-cssmin'
-    grunt.loadNpmTasks 'grunt-contrib-watch'
-    grunt.loadNpmTasks 'grunt-contrib-connect'
+    grunt.loadnomor_identitasTasks 'grunt-contrib-less'
+    grunt.loadnomor_identitasTasks 'grunt-contrib-cssmin'
+    grunt.loadnomor_identitasTasks 'grunt-contrib-watch'
+    grunt.loadnomor_identitasTasks 'grunt-contrib-connect'
 
     grunt.registerTask 'build',   ['less', 'cssmin']
     grunt.registerTask 'default', ['build', 'watch']

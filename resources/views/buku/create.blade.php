@@ -56,7 +56,7 @@ $(document).ready(function() {
                                 @endif
                             </div>
                         </div>
-                        <div class="form-group{{ $errors->has('npm') ? ' has-error' : '' }}">
+                        <div class="form-group{{ $errors->has('nomor_identitas') ? ' has-error' : '' }}">
                             <label for="isbn" class="col-md-4 control-label">ISBN</label>
                             <div class="col-md-6">
                                 <input id="isbn" type="text" class="form-control" name="isbn" value="{{ old('isbn') }}" required>

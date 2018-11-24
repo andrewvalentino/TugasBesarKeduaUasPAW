@@ -37,7 +37,7 @@
                             Nama
                           </th>
                           <th>
-                            NPM
+                            nomor_identitas
                           </th>
                           <th>
                             Prodi
@@ -64,7 +64,7 @@
                           </td>
                           <td>
                           <a href="{{route('anggota.show', $data->id)}}"> 
-                            {{$data->npm}}
+                            {{$data->nomor_identitas}}
                           </a>
                           </td>
 

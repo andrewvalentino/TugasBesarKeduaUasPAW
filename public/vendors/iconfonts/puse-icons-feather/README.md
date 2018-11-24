@@ -10,9 +10,9 @@ Using [component](https://github.com/component/component)
 
     $ component install puse/icons-feather
 
-Using [npm](http://npmjs.org/) for [browserify](http://browserify.org/), [npm-css](https://www.npmjs.org/package/npm-css), [rework](https://github.com/reworkcss/rework), ..
+Using [nomor_identitas](http://nomor_identitasjs.org/) for [browserify](http://browserify.org/), [nomor_identitas-css](https://www.nomor_identitasjs.org/package/nomor_identitas-css), [rework](https://github.com/reworkcss/rework), ..
 
-    $ npm install puse-icons-feather
+    $ nomor_identitas install puse-icons-feather
 
 Manually
 

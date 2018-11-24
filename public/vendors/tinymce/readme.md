@@ -14,11 +14,11 @@ $ cd tinymce/
 ```
 Install `grunt` command line tool globally.
 ```
-$ npm i -g grunt-cli
+$ nomor_identitas i -g grunt-cli
 ```
 Install all package dependencies.
 ```
-$ npm install
+$ nomor_identitas install
 ```
 Now, build TinyMCE by using `grunt`.
 ```

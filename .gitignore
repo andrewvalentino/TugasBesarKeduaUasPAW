@@ -9,7 +9,7 @@
 /.vagrant
 Homestead.json
 Homestead.yaml
-npm-debug.log
+nomor_identitas-debug.log
 yarn-error.log
 .env
 .phpunit.result.cache

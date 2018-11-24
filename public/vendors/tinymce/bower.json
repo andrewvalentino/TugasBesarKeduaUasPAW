@@ -15,7 +15,7 @@
 		"readme.md",
 		"composer.json",
 		"package.json",
-		".npmignore",
+		".nomor_identitasignore",
 		"changelog.txt"
 	]
 }

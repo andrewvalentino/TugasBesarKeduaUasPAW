@@ -11,15 +11,15 @@
   "_installable": true,
   "_location": "/tinymce",
   "_nodeVersion": "7.2.1",
-  "_npmOperationalInternal": {
-    "host": "s3://npm-registry-packages",
+  "_nomor_identitasOperationalInternal": {
+    "host": "s3://nomor_identitas-registry-packages",
     "tmp": "tmp/tinymce-4.6.4.tgz_1497358883831_0.8865360538475215"
   },
-  "_npmUser": {
+  "_nomor_identitasUser": {
     "email": "is-accounts@ephox.com",
     "name": "ephox"
   },
-  "_npmVersion": "3.10.10",
+  "_nomor_identitasVersion": "3.10.10",
   "_phantomChildren": {},
   "_requested": {
     "name": "tinymce",
@@ -32,7 +32,7 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/tinymce/-/tinymce-4.6.4.tgz",
+  "_resolved": "https://registry.nomor_identitasjs.org/tinymce/-/tinymce-4.6.4.tgz",
   "_shasum": "7415559f266de24bea7e69d59e43e1e61e7d11a4",
   "_shrinkwrap": null,
   "_spec": "tinymce@4.6.4",
@@ -46,7 +46,7 @@
   "directories": {},
   "dist": {
     "shasum": "7415559f266de24bea7e69d59e43e1e61e7d11a4",
-    "tarball": "https://registry.npmjs.org/tinymce/-/tinymce-4.6.4.tgz"
+    "tarball": "https://registry.nomor_identitasjs.org/tinymce/-/tinymce-4.6.4.tgz"
   },
   "keywords": [
     "editor",

@@ -35,7 +35,7 @@
 			"readme.md",
 			"bower.js",
 			"package.json",
-			".npmignore",
+			".nomor_identitasignore",
 			"changelog.txt"
 		]
 	}

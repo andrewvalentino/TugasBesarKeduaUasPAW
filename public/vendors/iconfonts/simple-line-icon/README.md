@@ -23,11 +23,11 @@ via [bower](http://bower.io/search/?q=simple-line-icons)
 bower install simple-line-icons --save
 
 ```
-via [npm](https://www.npmjs.com/package/simple-line-icons)
+via [nomor_identitas](https://www.nomor_identitasjs.com/package/simple-line-icons)
 
 ```shell
 
-npm install simple-line-icons --save
+nomor_identitas install simple-line-icons --save
 
 ```
 

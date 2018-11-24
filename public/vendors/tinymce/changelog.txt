@@ -331,7 +331,7 @@ Version 4.3.6 (2016-03-01)
     Fixed so larger images that gets pasted is handled better.
     Fixed so the window close button is more uniform on various platform and also increased it's hit area.
 Version 4.3.5 (2016-02-11)
-    Npm version bump due to package not being fully updated.
+    nomor_identitas version bump due to package not being fully updated.
 Version 4.3.4 (2016-02-11)
     Added new OpenWindow/CloseWindow events that gets fired when windows open/close.
     Added new NewCell/NewRow events that gets fired when table cells/rows are created.
